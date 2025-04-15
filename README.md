@@ -8,7 +8,7 @@ The advising team wihtin the Computer Science Department of ABCU has asked me to
 * Hash Tables
 * Binary Search Tree
 
-After designing and evaluating each data structure in regards to search algorithmic efficiency, I then implemented the solution and devloped the assistance program, solving the needs of the advising team.
+After designing and evaluating each data structure in regards to search algorithmic efficiency, I then implemented the solution and developed the assistance program, solving the needs of the advising team.
 
 ## How did you approach the problem? Consider why data structures are important to understand.
 As stated above, I approached this problem by first evaluating each data structures efficiency for different algorithmic aspects such as searching, inserting, and removing. Next, I then implemented each data structure to evaluate the differences in time taken to do each operation on a small and large dataset. Finally, I finalized my pseudocode designs for each data structure (found above) and analyzed the time spent for each operation on each data structure implemented side-by-side. In doing this type of research and testing prior to fully implementing a solution, I was significantly more informed on which data structure would be the best fit for the given problem provided that we also had an idea of which algorithm we were idealing performing. This allowed for an educated and structured implementation process to be streamlined and allowed for me to provide that solution with no problems occurring.
